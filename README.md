@@ -35,7 +35,7 @@ Computer vision pipelines for facial recognition and biometric authentication us
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
 
 ---
-## 🏠 [GitHub Portfolio](https://github.com/rlhinrichs)
+
 📄 [**View My Full CV**](https://www.hinrichs.engineering/cv)  
 🔗 [LinkedIn](https://linkedin.com/in/rhinrichs) • [YouTube](https://youtube.com/playlist?list=PL_f4fKU7wcDSbIwPEP4-SCwGlRuXG-uFb&si=AdRi3t3XgGBSxJPJ) • [Email](mailto:rebecca.leigh.hinrichs@gmail.com)
 
@@ -43,3 +43,7 @@ Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimi
 
 🧠 *What I'm currently into:*  
 Quantum Machine Learning • Multimodal AI Systems • Computational Neuroscience • Scalable AI in Scientific Discovery
+
+---
+
+## 🏠 [GitHub Portfolio](https://github.com/rlhinrichs)
