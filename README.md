@@ -5,31 +5,31 @@
 
 🎯 **What I Do**  
 I ♥ handling uncertainty in scientific domains ~ & creativity!
-My hobbies include building high-performance AI systems for neuroscience, biomedical engineering, and applied physics. 
+My hobbies include optimizing AI systems for performance. 
 My work spans GPU-accelerated signal processing, transformer-based NLP pipelines, and probabilistic models for real-time decision-making in science and engineering.
 
 🔬 I'm specializing in:
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
 - Scientific Computing (ODE/PDE solvers, optimization, HPC)
 - Probabilistic Modeling (Bayesian Inference, MCMC, DBNs)
-- Multi-Modal AI, Quantum-Aware Architectures
+- Agentic AI, Multi-Modal AI, Quantum-Aware Architectures
 
 ---
 
 🚀 **Selected Projects**
 
 ### 🛌 [DeepSleepAI](https://github.com/rlhinrichs/deepsleepai)  
-EEG sleep stage classifier with 10× GPU speedup, probabilistic sleep transition modeling, and HPC deployment pipeline.  
+EEG sleep stage classifier with GPU speedup, probabilistic sleep transition modeling, and HPC deployment pipeline.  
 📈 Outperforms CNN baselines!
 
 ### 🧠 [PyEEG-GPU](https://github.com/rlhinrichs/pyeeg-gpu)  
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
-### 🩺 [LangLearn](https://github.com/rlhinrichs/lang-learn)  
+### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn)  
 Fine-tuned Falcon-7B for medical question-answering using QLoRA, weighted loss, and semantic tokenization.
 
-### 👁️ [Edge Detection & Fingerprints](https://github.com/rlhinrichs/fingerprints)  
-Computer vision pipelines for facial recognition and biometric authentication using CNNs, HoG, LBP, and ViT-based research.
+### 👁️ Computer Vision: Object Recognition
+Computer vision pipelines for [facial recognition](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
 
 ### 📊 [Numerical Methods](https://github.com/rlhinrichs/numerical-methods)  
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
