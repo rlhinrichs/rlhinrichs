@@ -29,7 +29,7 @@ Python library for high-speed EEG statistically-derived feature extraction using
 Fine-tuned Falcon-7B for medical question-answering using QLoRA, weighted loss, and semantic tokenization.
 
 ### 👁️ Computer Vision: Object Recognition
-Computer vision pipelines for [facial recognition](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
+Pipelines for [facial recognition](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
 
 ### 📊 [Numerical Methods](https://github.com/rlhinrichs/numerical-methods)  
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
