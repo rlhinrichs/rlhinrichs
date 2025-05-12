@@ -4,35 +4,41 @@
 ---
 
 🎯 **What I Do**  
-I ♥ handling uncertainty in scientific domains ~ & creativity!
-My hobbies include optimizing AI systems for performance. 
-My work spans GPU-accelerated signal processing, transformer-based NLP pipelines, and probabilistic models for real-time decision-making in science and engineering.
+I ♥ pursuing creativity for effective problem-solving.  
+My hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
+My work spans GPU-accelerated signal processing, transformer-based NLP pipelines, probabilistic modeling & inference.
 
 🔬 I'm specializing in:
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
 - Scientific Computing (ODE/PDE solvers, optimization, HPC)
 - Probabilistic Modeling (Bayesian Inference, MCMC, DBNs)
-- Agentic AI, Multi-Modal AI, Quantum-Aware Architectures
+- Multi-Modal AI, Quantum-Aware Architectures
 
 ---
 
 🚀 **Selected Projects**
 
-### 🛌 [DeepSleepAI](https://github.com/rlhinrichs/deepsleepai)  
-EEG sleep stage classifier with GPU speedup, probabilistic sleep transition modeling, and HPC deployment pipeline.  
-📈 Outperforms CNN baselines!
+### 🛌 [DeepSleepAI](https://github.com/rlhinrichs/deepsleepai) • Automated Time-Series Classifier
+Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Network to model transitions.  
+📈 Outperforms CNN baselines! <i>Journal publication in progress.</i>
 
-### 🧠 [PyEEG-GPU](https://github.com/rlhinrichs/pyeeg-gpu)  
+### 🧠 [PyEEG-GPU](https://github.com/rlhinrichs/pyeeg-gpu) • GPU-accelerated EEG Feature Extractor
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
-### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn)  
-Fine-tuned Falcon-7B for medical question-answering using QLoRA, weighted loss, and semantic tokenization.
+### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
+Fine-tuned Falcon-7B LLM using QLoRA, weighted loss, and semantic tokenization.  
+Question-answer query-response for a medical diagnosis of a symptomatic patient.  
+📈 Fine-tuning outperforms baseline model by +18% in accuracy and +45% in memory performance.
 
-### 👁️ Computer Vision: Object Recognition
+### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Two Sample Projects
 Pipelines for [facial recognition](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
 
-### 📊 [Numerical Methods](https://github.com/rlhinrichs/numerical-methods)  
-Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
+### 🧊 [Deep Learning](https://github.com/neural-networks) • Tri-Axial Gyroscope Classifier
+3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
+📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.
+
+### 📊 [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
+Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods. Study implications for PCA analysis (data science), dimensionality reduction (data science & AI), and numerical stability in physical simulation software for aerospace engineering & robotics.
 
 ---
 
@@ -41,8 +47,8 @@ Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimi
 
 ---
 
-🧠 *What I'm currently into:*  
-Quantum Machine Learning • Multimodal AI Systems • Computational Neuroscience • Scalable AI in Scientific Discovery
+🧠 *Rabbit holes I'm diving into these days:*  
+Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum Machine Learning
 
 ---
 
