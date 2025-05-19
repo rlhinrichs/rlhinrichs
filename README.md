@@ -31,7 +31,7 @@ Question-answer query-response for a medical diagnosis of a symptomatic patient.
 📈 Fine-tuning outperforms baseline model by +18% in accuracy and +45% in memory performance.
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
-Pipelines for [facial recognition](https://github.com/rlhinrichs/facial-recognition), [object segmentation](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
+Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition), [object segmentation](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
 
 ### 🧊 [Deep Learning](https://github.com/neural-networks) • Tri-Axial Gyroscope Classifier
 3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
