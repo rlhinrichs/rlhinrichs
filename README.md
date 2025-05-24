@@ -26,7 +26,7 @@ Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Networ
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
-Creating an LLM on multiple platforms. Demo a Q&A query-response for a medical diagnosis of a symptomatic patient.  
+Creating a RAG framework LLM on multiple platforms. Demo a Q&A query-response for a medical diagnosis of a symptomatic patient.  
 📈 Fine-tuning outperforms baseline model by +18% in accuracy and +45% in memory performance.
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
