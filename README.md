@@ -50,7 +50,7 @@ Exploring the underpinnings of AI: how data is processed, meaning is extracted, 
 ---
 
 🧠 *Rabbit holes I'm diving into these days:*  
-Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum Machine Learning
+Keeping AI Safe • Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum Machine Learning
 
 ---
 
