@@ -40,7 +40,8 @@ Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods. Study implications for PCA analysis (data science), dimensionality reduction (data science & AI), and numerical stability in physical simulation software for aerospace engineering & robotics.
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
-Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made. Implications continue for AI Cybersecurity efforts.
+Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
+Implications continue for AI Cybersecurity efforts.
 
 ---
 
