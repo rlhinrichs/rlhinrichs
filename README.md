@@ -32,19 +32,19 @@ Creating a RAG framework LLM on multiple platforms. Demo a Q&A query-response fo
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
 Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition), [object segmentation](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
 
-### 🧊 [Deep Learning](https://github.com/neural-networks) • Tri-Axial Gyroscope Classifier
+### 🧊 [Deep Learning](https://github.com/rlhinrichs/neural-networks) • Tri-Axial Gyroscope Classifier
 3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
 📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.
 
 ### λ [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
-Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods. Study implications for PCA analysis (data science), dimensionality reduction (data science & AI), and numerical stability in physical simulation software for aerospace engineering & robotics.
+Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
 Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
-Implications continue for AI Cybersecurity efforts.
+Implications continue for AI-Cybersecurity efforts.
 
 ---
-
+🔔 [**More Projects!**](https://github.com/rlhinrichs?tab=repositories)
 📄 [**View My Full CV**](https://www.hinrichs.engineering/cv)  
 🔗 [LinkedIn](https://linkedin.com/in/rhinrichs) • [YouTube](https://youtube.com/playlist?list=PL_f4fKU7wcDSbIwPEP4-SCwGlRuXG-uFb&si=AdRi3t3XgGBSxJPJ) • [Email](mailto:rebecca.leigh.hinrichs@gmail.com)
 
