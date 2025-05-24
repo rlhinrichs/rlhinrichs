@@ -27,7 +27,7 @@ Python library for high-speed EEG statistically-derived feature extraction using
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
 Creating a RAG framework LLM on multiple platforms. Demo a Q&A query-response for a medical diagnosis of a symptomatic patient.  
-📈 Fine-tuning outperforms baseline model by +18% in accuracy and +45% in memory performance.
+📈 Edge computing model achieves 0.51 avg-loss in final epoch.
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
 Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition), [object segmentation](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
