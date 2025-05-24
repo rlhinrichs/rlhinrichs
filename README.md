@@ -26,8 +26,7 @@ Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Networ
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
-Fine-tuned Falcon-7B LLM using QLoRA, weighted loss, and semantic tokenization.  
-Question-answer query-response for a medical diagnosis of a symptomatic patient.  
+Creating an LLM on multiple platforms. Demonstrating a question-answer query-response for a medical diagnosis of a symptomatic patient.  
 📈 Fine-tuning outperforms baseline model by +18% in accuracy and +45% in memory performance.
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
@@ -37,8 +36,11 @@ Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition
 3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
 📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.
 
-### 📊 [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
+### λ [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods. Study implications for PCA analysis (data science), dimensionality reduction (data science & AI), and numerical stability in physical simulation software for aerospace engineering & robotics.
+
+### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
+Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made. Implications continue for AI Cybersecurity efforts.
 
 ---
 
