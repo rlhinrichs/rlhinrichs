@@ -6,7 +6,7 @@
 🎯 **What I Do**  
 I ♥ pursuing creativity for effective problem-solving.  
 Hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
-Work spans GPU-accelerated signal processing, NLP/CV pipelines, data modeling & inference.
+Work spans AI architectures (grad) and data handling / prediction modeling (undergrad).    
 
 🔬 I'm specializing in:
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
