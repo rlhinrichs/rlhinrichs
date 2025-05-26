@@ -6,7 +6,7 @@
 🎯 **What I Do**  
 I ♥ pursuing creativity for effective problem-solving.  
 My hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
-My work spans GPU-accelerated signal processing, transformer-based NLP pipelines, probabilistic modeling & inference.
+My work spans GPU-accelerated signal processing, working with transformers, data modeling & inference.
 
 🔬 I'm specializing in:
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
@@ -40,7 +40,7 @@ Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition
 Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
-Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
+Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made. In my opinion, responsible AI starts here.  
 
 ---
 🔔 [**More Projects!**](https://github.com/rlhinrichs?tab=repositories)
