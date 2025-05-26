@@ -1,12 +1,12 @@
 # 👋 ¡Hola! I'm Rebecca Hinrichs  
-**AI Engineer · Data Scientist · Researcher**
+**AI Engineer · Data Scientist · Amateur Researcher**
 
 ---
 
 🎯 **What I Do**  
 I ♥ pursuing creativity for effective problem-solving.  
-My hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
-My work spans GPU-accelerated signal processing, working with transformers, data modeling & inference.
+Hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
+Work spans GPU-accelerated signal processing, NLP/CV pipelines, data modeling & inference.
 
 🔬 I'm specializing in:
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
@@ -26,7 +26,7 @@ Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Networ
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
-Creating a RAG framework LLM on multiple platforms. Q&A query-response for a medical diagnosis of a symptomatic patient.  
+Creating a RAG-tuned LLM. Q&A query-response for a medical diagnosis of a symptomatic patient.  
 📈 Edge computing model achieves 0.51 avg-loss in final epoch.  
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
