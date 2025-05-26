@@ -5,14 +5,9 @@
 
 🎯 **What I Do**  
 I ♥ pursuing creativity for effective problem-solving.  
+I've earned my MS in AI, my BS in Data Science, and am pursuing my MS in Math.  
 Hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
-Work spans AI architectures (grad) and data handling / prediction modeling (undergrad).    
-
-🔬 I'm specializing in:
-- Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
-- Scientific Computing (ODE/PDE solvers, optimization, HPC)
-- Probabilistic Modeling (Bayesian Inference, MCMC, DBNs)
-- Multi-Modal AI, Quantum-Aware Architectures, AI for Good, AI+Cybersecurity
+Work spans AI architectures (grad school) and data handling / prediction modeling (undergrad).    
 
 ---
 
@@ -49,7 +44,7 @@ Exploring the underpinnings of AI: how data is processed, meaning is extracted, 
 
 ---
 
-🧠 *Rabbit holes I'm diving into these days:*  
+🧠 *Rabbit holes I'm into these days:*  
 Keeping AI Safe • Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum Machine Learning
 
 ---
