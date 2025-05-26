@@ -37,10 +37,10 @@ Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition
 📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.
 
 ### λ [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
-Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimization techniques using NumPy, SciPy, and matrix factorization methods.
+Scientific computing solvers for ODEs, PDEs, boundary value problems, matrix factorization and optimization techniques using NumPy & SciPy.
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
-Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made. In my opinion, responsible AI starts here.  
+Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
 
 ---
 🔔 [**More Projects!**](https://github.com/rlhinrichs?tab=repositories)
