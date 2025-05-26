@@ -1,5 +1,5 @@
 # 👋 ¡Hola! I'm Rebecca Hinrichs  
-**AI Engineer · Data Scientist · Researcher in Scientific Computing + Deep Learning**
+**AI Engineer · Data Scientist · Researcher**
 
 ---
 
@@ -12,7 +12,7 @@ My work spans GPU-accelerated signal processing, transformer-based NLP pipelines
 - Deep Learning (CNNs, RNNs, LSTMs, Transformers, Vision Models)
 - Scientific Computing (ODE/PDE solvers, optimization, HPC)
 - Probabilistic Modeling (Bayesian Inference, MCMC, DBNs)
-- Multi-Modal AI, Quantum-Aware Architectures
+- Multi-Modal AI, Quantum-Aware Architectures, AI for Good, AI+Cybersecurity
 
 ---
 
@@ -26,8 +26,8 @@ Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Networ
 Python library for high-speed EEG statistically-derived feature extraction using CUDA + CuPy.
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
-Creating a RAG framework LLM on multiple platforms. Demo a Q&A query-response for a medical diagnosis of a symptomatic patient.  
-📈 Edge computing model achieves 0.51 avg-loss in final epoch.
+Creating a RAG framework LLM on multiple platforms. Q&A query-response for a medical diagnosis of a symptomatic patient.  
+📈 Edge computing model achieves 0.51 avg-loss in final epoch.  
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/edge-detection) [Facial](https://github.com/rlhinrichs/facial-recognition) & [Object Recognition](https://github.com/rlhinrichs/fingerprints) • Three Sample Projects
 Pipelines for [contour mapping](https://github.com/rlhinrichs/facial-recognition), [object segmentation](https://github.com/rlhinrichs/edge-detection) and [biometric authentication](https://github.com/rlhinrichs/fingerprints) using CNNs, HoG, LBP, and ViT-based research.
@@ -41,7 +41,6 @@ Scientific computing solvers for ODEs, PDEs, boundary value problems, and optimi
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
 Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
-Implications continue for AI-Cybersecurity efforts.
 
 ---
 🔔 [**More Projects!**](https://github.com/rlhinrichs?tab=repositories)
