@@ -3,8 +3,8 @@
 
 ---
 
-🎯 **What I Do**  
-I ♥ pursuing creativity for effective problem-solving.  
+🎯 **What I'm About**  
+I ♥ finding creative ways to solve hard problems!  
 I've earned my MS in AI, my BS in Data Science, and am pursuing my MS in Math.  
 Hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
 Work spans AI architectures (grad school) and data handling / prediction modeling (undergrad).    
