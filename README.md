@@ -25,7 +25,7 @@ Creating a RAG-tuned LLM. Q&A query-response for a medical diagnosis of a sympto
 📈 Edge computing model achieves 0.51 avg-loss in final epoch.  
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/comp-viz) • Three Sample Projects • Facial & Object Recognition
-Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, and ViT-based research.
+Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, cv2, ViT.
 
 ### 🧊 [Deep Learning](https://github.com/rlhinrichs/neural-networks) • Tri-Axial Gyroscope Classifier
 3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
