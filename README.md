@@ -9,7 +9,7 @@ Hobbies include AI research, optimizing AI systems for performance, obsessing ov
 Work spans AI architectures and data handling / prediction modeling.  
 Love collaboration! Please [email me](mailto:rebecca.leigh.hinrichs@gmail.com) if interested!  
 
-🚀 **What I'm Into**
+🚀 **What I'm Into**  
 Currently learning more about enterprise deployment in AWS, GCP, Azure.  
 Planning to continue learning under-the-hood modeling with further studies this fall!  
 
