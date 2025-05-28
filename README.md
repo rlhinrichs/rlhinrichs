@@ -5,7 +5,7 @@
 
 🎯 **What I'm About**  
 I ♥ finding creative ways to solve hard problems!  
-I've earned my MS in AI, my BS in Data Science, and am pursuing my MS in Math.  
+I've earned my MS in AI, my BS in Data Science, and this fall will begin pursuing my MS in Math (hopefully during hands-on experience!).  
 Hobbies include AI research, optimizing AI systems for performance, obsessing over λs.  
 Work spans AI architectures (grad school) and data handling / prediction modeling (undergrad).  
 Love collaboration! Please [email me](mailto:rebecca.leigh.hinrichs@gmail.com) with any tips/tricks/ideas/projects if you're interested!  
