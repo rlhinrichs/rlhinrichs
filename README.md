@@ -24,7 +24,7 @@ Python library for high-speed EEG statistically-derived feature extraction using
 Creating a RAG-tuned LLM. Q&A query-response for a medical diagnosis of a symptomatic patient.  
 📈 Edge computing model achieves 0.51 avg-loss in final epoch.  
 
-### 👁️ [Computer Vision:](https://github.com/rlhinrichs/comp-viz) • Three Sample Projects in Facial & Object Recognition
+### 👁️ [Computer Vision:](https://github.com/rlhinrichs/comp-viz) • Three Sample Projects • Facial & Object Recognition
 Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, and ViT-based research.
 
 ### 🧊 [Deep Learning](https://github.com/rlhinrichs/neural-networks) • Tri-Axial Gyroscope Classifier
