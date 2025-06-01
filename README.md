@@ -9,9 +9,8 @@ Hobbies include AI research, optimizing AI systems for performance, obsessing ov
 Work spans AI architectures and data handling / prediction modeling.  
 Love collaboration! Please [email me](mailto:rebecca.leigh.hinrichs@gmail.com) if interested!  
 
-🚀 **What I'm Into**  
-Currently learning more about enterprise deployment in AWS, GCP, Azure.  
-Planning to continue learning under-the-hood modeling with further studies this fall!  
+🚀 **What I'm Working On atm**  
+Making a custom LLM & MCP server from scratch 🛝
 
 ---
 
@@ -26,7 +25,7 @@ Python library for high-speed EEG statistically-derived feature extraction using
 
 ### 🩺 [Natural Language Processing](https://github.com/rlhinrichs/lang-learn) • Medical Diagnosis Generator
 Creating a RAG-tuned LLM. Q&A query-response for a medical diagnosis of a symptomatic patient.  
-📈 Edge computing model achieves 0.51 avg-loss in final epoch.  
+📈 Dual-GPU model achieves 0.51 avg-loss in final epoch.  
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/comp-viz) • Three Sample Projects • Facial & Object Recognition
 Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, cv2, ViT.
@@ -49,7 +48,7 @@ Exploring the underpinnings of AI: how data is processed, meaning is extracted, 
 ---
 
 🧠 *Rabbit holes I'm into these days:*  
-Keeping AI Safe • Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum Machine Learning
+Keeping AI Safe • Multimodal AI Systems • Scalable AI in Scientific Discovery • Quantum AI + Machine Learning
 
 ---
 
