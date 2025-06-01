@@ -28,14 +28,17 @@ Creating a RAG-tuned LLM. Q&A query-response for a medical diagnosis of a sympto
 📈 Dual-GPU model achieves 0.51 avg-loss in final epoch.  
 
 ### 👁️ [Computer Vision:](https://github.com/rlhinrichs/comp-viz) • Three Sample Projects • Facial & Object Recognition
-Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, cv2, ViT.
+Discussion & examples of contour mapping, object segmentation and biometric authentication using CNNs, HoG, LBP, cv2, ViT.  
 
 ### 🧊 [Deep Learning](https://github.com/rlhinrichs/neural-networks) • Tri-Axial Gyroscope Classifier
 3D time-series signal classifier using Bi-LSTM neural network model engineering with fine-tuning techniques for optimized performance.  
-📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.
+📈 Achieves 91% accuracy using F1 scoring & ROC-AUC metrics.  
 
 ### λ [EigenSolvers](https://github.com/rlhinrichs/numerical-methods) • Numerical Methods in Engineering
-Scientific computing solvers for ODEs, PDEs, boundary value problems, matrix factorization and optimization techniques using NumPy & SciPy.
+Scientific computing solvers for ODEs, PDEs, boundary value problems, matrix factorization and optimization techniques using NumPy & SciPy.  
+
+### 🧌 [Wumpus](https://github.com/rlhinrichs/wumpus) • Agentic AI  
+Bayesian Inference and Constraint Satisfaction Programming to guide a free agent using perceptions to search a grid space and perform a task while calculating probabilities of dangers en route.  
 
 ### 📊 [Machine Learning](https://github.com/rlhinrichs/data-science) • Foundations in Data Science
 Exploring the underpinnings of AI: how data is processed, meaning is extracted, and predictions are made.  
